@@ -10,18 +10,46 @@
 
 @media screen and (max-width:1140px){
     .header-section .banner-section .banner-inner h2{
-        font-size: 40px;
-        text-align: right;
+    font-size: 35px;
+    text-align: right;
+    line-height: 47px;
+    }
+    .header-section {
+    width: 100%;
+    padding: 0px;
+}
+    .intro-qoute-section{
+    width: 100%;
+    padding-bottom:50px;
+    }
+    .intro-qoute-section .pic-qoute {
+    padding: 63px 0px;
+}
+    .intro-qoute-section .pic-qoute p {
+    font-size: 18px;
+    line-height: 28px;
+    margin-left: 82px;
+}
+    .intro-qoute-section .pic-qoute h6 {
+    font-size: 16px;
+    font-weight: 700;
+    color: #fff;
+    line-height: 26px;
+    margin-left: 85px;
+    }
+    .intro-qoute-section .text-qoute h2 {
+    font-size: 48px;
+    line-height: 58px;
     }
     .feature-section .feature-inner {
     width: 100%;
     padding: 100px 10px 246px;
 }
     .feature-section .feature-inner h2 {
-    font-size: 35px;
+    font-size: 20px;
     font-weight: 800;
     color: rgb(0, 0, 0);
-    line-height: 40px;
+    line-height: 30px;
     margin-bottom: 33px;
     }
     .feature-section{
@@ -47,6 +75,10 @@
     text-align: center;
     margin: 2px;
     }
+    .design-section .design-inner-text h4 {
+    font-size: 16px;
+    line-height: 26px;
+}
     .inspirational-section {
     width: 100%;
     padding-top:0px;
